@@ -1,0 +1,15 @@
+Aim:Design an obstacle detector and distance measuring device. 
+Appartus:ultrasonic sensor,arduiono,breadboard,led.
+Procedure: 
+step1:
+Take the Arduino,led and Breadboard.
+Step2:
+join the ultrasonic sensor s.t all the probs join with the gnd. and VCC of arduino .
+Step:
+after you put coding ,start the circuit .
+Step4:
+as how much value you had given to it ,it show the distance and if value is greater than the led glow ,otherwise it will not.
+Step5: it starts working as per your code.
+Conclusion:
+the ultrasonic sensor works and glow the led with the given limit.
+ 
